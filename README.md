@@ -1,6 +1,6 @@
-[![Docker](https://badgen.net/badge/icon/senmicloud%2fjmeter-influxdb?icon=docker&label)](https://hub.docker.com/r/senmicloud/jmeter-influxdb)
+[![Docker](https://badgen.net/badge/icon/senmicloud%2fjmeter-influxdb?icon=docker&label)](https://hub.docker.com/r/senmicloud/jmeter-influxdb) [![GitHub stars](https://img.shields.io/github/stars/SenmiCloud/jmeter-influxdb.svg?style=social&label=Star&maxAge=2592000)](https://github.com/SenmiCloud/jmeter-influxdb)
 
-<img src="https://avatars.githubusercontent.com/u/54386046?v=4" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/54386046?v=4" width="120"/>
 
 # jmeter-influxdb
 - ## Docker image of JMeter v5.5 w/ InfluxDB plugin v2.5

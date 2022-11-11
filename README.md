@@ -1,10 +1,10 @@
+[![Docker](https://badgen.net/badge/icon/senmicloud%2fjmeter-influxdb?icon=docker&label)](https://hub.docker.com/r/senmicloud/jmeter-influxdb)
 
 <img src="https://avatars.githubusercontent.com/u/54386046?v=4" width="200"/>
 
 # jmeter-influxdb
-## Docker image of JMeter w/ InfluxDB plugin
-
-https://hub.docker.com/r/senmicloud/jmeter-influxdb
+- ## Docker image of JMeter v5.5 w/ InfluxDB plugin v2.5
+- ## openjdk17-alpine
 
 <br>
 
